@@ -15,10 +15,12 @@
             "role": "Developer"
         }
     ],
-    "repositories": {
+    "repositories": [
+        {
         "type": "git",
         "url": "https://github.com/swapnilsarwe/url.git"
-    },
+        }
+    ],
     "require": {
         "illuminate/routing": "~5.4.0",
         "illuminate/support": "~5.4.0",
