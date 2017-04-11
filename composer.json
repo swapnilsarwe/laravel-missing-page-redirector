@@ -18,7 +18,7 @@
     "repositories": [
         {
         "type": "git",
-        "url": "https://github.com/swapnilsarwe/url.git"
+        "url": "git@github.com:swapnilsarwe/url.git"
         }
     ],
     "require": {
